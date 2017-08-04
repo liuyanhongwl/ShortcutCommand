@@ -1,0 +1,1 @@
+/Users/hong-drmk/Library/Android/sdk/emulator/emulator -avd Pixel_API_26
